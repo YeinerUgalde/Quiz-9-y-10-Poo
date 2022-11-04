@@ -4,9 +4,9 @@
 Integrantes:
 ------------
 
-Cristopher Acuña
-David Fernandez
-Jose Pablo Barquero
+Cristopher Acuña,
+David Fernandez,
+Jose Pablo Barquero,
 Yeiner Ugade
 
 ------------
